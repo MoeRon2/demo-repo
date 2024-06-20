@@ -6,8 +6,5 @@ Some description!
 
 Watch tutorial on Youtube.
 
-!!!
-
-LCK
-
-Does this work?
+## Local Development
+1. Open index.html in your browser
